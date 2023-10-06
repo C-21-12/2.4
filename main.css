@@ -1,0 +1,77 @@
+body{
+    background-image: url(https://ngcmshak.ru/uploads/dsn/fe/72/001/1587646418_38-p-besshovnie-foni-dlya-saitov-112.jpg);
+    background-size: 90%;
+    font-family: 'Courier New', Courier, monospace;
+}
+.header{
+    background-image: url(https://damion.club/uploads/posts/2022-01/thumbs/1642580453_37-damion-club-p-fon-dlya-linkedin-45.jpg);
+    background-size: 100%;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    border-radius: 100px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.10);
+}
+ul{
+    list-style-type: none;
+}
+a{
+    color: #384351;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover{
+    color: #6899d9;
+}
+button{
+    background-color: #666385;
+    border: 1px solid #cccccc;
+    color: #cccccc;
+    border-radius: 10px;
+    margin: 10px 0 0 80px;
+    padding: 5px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+input [type="text"], input [type="email"]{
+    padding: 50px;
+    
+}
+.content{
+    display: block;
+    width: 15%;
+    height: 150px;
+    padding: 10px;
+    margin: 25px;
+    float: left;
+    border-radius: 15px;
+    background-color: #cccccc;
+    text-align: center;
+    background-image: url(https://bogatyr.club/uploads/posts/2023-01/1675015626_bogatyr-club-p-fon-dlya-saita-html-fon-instagram-5.jpg);
+    background-size: 100%;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.10);
+}
+.form{
+    float: right;
+    padding: 10px;
+    margin: 25px;
+    background-image: url(https://bogatyr.club/uploads/posts/2023-01/1675015626_bogatyr-club-p-fon-dlya-saita-html-fon-instagram-5.jpg);
+    background-size: 100%;
+    border-radius: 15px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.10);
+}
+.table{
+    display: block;
+    padding-top: 150px;
+    border-collapse: collapse;
+}
+tr, th{
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    color: rgb(0, 0, 0);
+    background-color: #785c85;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.10);
+
+}
